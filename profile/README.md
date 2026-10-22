@@ -13,7 +13,6 @@ signed commits, and checks in every pipeline.
 | Product | What it is |
 |---|---|
 | `rexbloom` | A personal finance app that turns everyday spending data into a simple plan |
-| `rexcareer` | AI skills for Claude Code, Codex and Cursor that help you review job posts, compare offers and tailor your CV |
 
 Each one goes public once it is cleaned up and documented.
 
